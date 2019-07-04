@@ -1,0 +1,15 @@
+dist/
+dist_dev/
+dist_local/
+dist_prod/
+dist_test/
+dist_local_test/
+dist_local_dev/
+dist_local_prod/
+.temp/
+.rn_temp/
+node_modules/
+.DS_Store
+.svn/
+.git/
+.tea/
